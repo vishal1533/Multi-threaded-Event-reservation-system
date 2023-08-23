@@ -1,6 +1,6 @@
 # Multi-threaded-Event-reservation-system
 
-This assigments covers multiple OS concepts like semaphores, mutex, threads etc. across the three questions. The assignment pdf is present in the folder for reference.
+We have covered multiple OS concepts like semaphores, mutex, threads etc. in this question. The assignment pdf is present in the folder for reference.
 
 ## Installation and Running 
 
